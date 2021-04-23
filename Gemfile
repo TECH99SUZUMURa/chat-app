@@ -57,3 +57,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # 運用・テスト・本番のすべての環境で使用するので、gem deviseは一番下に記述する。
 gem 'devise'
+
+gem 'pry-rails'
